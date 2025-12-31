@@ -1,4 +1,4 @@
-The Builder.exe is in the tags on the right of your screen!!!
+The Builder.exe is in the RELEASES on the right of your screen!!!
 
 
 ⚠️WARNING⚠️
